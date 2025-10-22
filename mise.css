@@ -1,0 +1,63 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+}
+
+.nvv{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    position: relative;
+    left: 400px;
+}
+.but{
+    display: flex;
+}
+button{
+    background-color: green;
+    padding: 5px;
+
+}
+.but{
+     position: relative;
+    left: 600px;
+}
+h4{
+    position: relative;
+    bottom: 20px;
+    right: 100px;
+}
+aside{
+    position: absolute;
+    left: 700px;
+    bottom: 150px;
+
+}
+.img1{
+    width: 400px;
+    position: relative;
+    top: 100px;
+}
+.bold{
+    font-weight: bold;
+}
+#xxx{
+    font-size: small;
+    position: relative;
+    bottom: 20px;
+}
+
+.sec2{
+    position: relative;
+    top: 150px;
+}
+.troi{
+    display: flex;
+    gap: 20px;
+}
+#pro{
+    font-weight: bold;
+}
+
+
